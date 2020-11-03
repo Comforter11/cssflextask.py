@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    padding: 8px;
+    background-color: #963cbdff;
+    border: 2px solid black;
+    height: 230px;
+}
+.p1{
+    background-color: #ff6f61ff;
+    border: 2px solid black;
+    height: 50px;
+}
+.p2{
+    background-color: #c5299bff;
+    border:2px solid black;
+    height: 50px;
+    margin-bottom: auto;
+    align-items: flex-end;
+}
+.p3{
+    background-color: #feae51ff;
+    border:2px solid black;
+    height: 50px;
+}
+.footer{
+    position: absolute;
+    margin: auto;
+    padding-top: 600px;
+}
